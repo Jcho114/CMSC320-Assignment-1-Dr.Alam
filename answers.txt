@@ -3,3 +3,13 @@ Q1: Why might be consider using git?
 Answer: For robust versioning of software that
 not only eases personal development but also
 facilitates collaborative development.
+
+Q2: What field could data science be applied to?
+Give and Example and how it might help
+
+Answer: Data Science could be applied to Machine
+Learning. For example, developing robust models
+require high quality data for training and testing.
+Considerations such as data cleaning, sampling, and
+whatnot all stem from data science, thus making
+it applicable for this field of work.
