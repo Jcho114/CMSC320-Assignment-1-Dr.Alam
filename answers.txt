@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: For robust versioning of software that
+not only eases personal development but also
+facilitates collaborative development.
