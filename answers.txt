@@ -27,3 +27,14 @@ one of the branches to the latest commit of the other
 branch, resolving any conflicts as they come by.
 In the end, we should expect to see commits from both
 branches included in the git logs.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my mathematical and statistical
+base as well as get adept at data science conventions.
+I have spent most of my short 2 year cs career working
+with SWE. I wish to now extend to ML and I believe this
+class will be a great first step. Of course, I have been
+doing lots of self study, but it is great to have a steady
+option in the form of a class with deadlines, grades, etc.
+
