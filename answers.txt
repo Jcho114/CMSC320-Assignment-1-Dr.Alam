@@ -13,3 +13,17 @@ require high quality data for training and testing.
 Considerations such as data cleaning, sampling, and
 whatnot all stem from data science, thus making
 it applicable for this field of work.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is directly comparing the latest
+commit of one branch to the other. We are essentially
+creating a new commit that resolves any differences
+found from these two branches. Meanwhile, rebasing
+takes a completely different approach where they
+first find the point in which both branches diverge.
+From there, we incrementally check each commit of
+one of the branches to the latest commit of the other
+branch, resolving any conflicts as they come by.
+In the end, we should expect to see commits from both
+branches included in the git logs.
